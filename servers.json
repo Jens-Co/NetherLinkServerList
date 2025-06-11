@@ -1,0 +1,15 @@
+[
+  {
+    "name": "CubeCraft",
+    "address": "play.cubecraft.net",
+    "port": 19132,
+    "background": "https://raw.githubusercontent.com/Jens-Co/NetherLinkServerList/refs/heads/main/cubecraft.png"
+  },
+  {
+    "name": "GeyserMC",
+    "address": "test.geysermc.org",
+    "port": 19132,
+    "background": "https://raw.githubusercontent.com/Jens-Co/NetherLinkServerList/refs/heads/main/geyser.png"
+  }
+]
+
